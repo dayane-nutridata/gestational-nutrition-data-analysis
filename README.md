@@ -21,7 +21,7 @@ All data presented were fictitiously generated in R for demonstration purposes, 
   * `BMI`: Body Mass Index ($\text{kg/m}^2$)
   * `GC`: Glycemic Control ($\text{g}$)
   * `Nutritional_diagnosis`: nutritional diagnosis observed during the consultation ($\text{g}$)
-  * Full Data Dictionary is available in the [data folder](https://github.com/dayane-nutridata/gestional-nutrition-data-analysis/tree/main/data).
+  * Full Data Dictionary is available in the [data folder](https://github.com/dayane-nutridata/gestional-nutrition-data-analysis/tree/main/gestional-nutrition-data-analysis/data).
 
 ---
 
