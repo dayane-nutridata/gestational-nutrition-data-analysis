@@ -47,7 +47,8 @@ Descriptive statistics for baseline maternal characteristics:
 
 ### 2. Main Findings
 * Longitudinal GEE models indicated that weight control is  statistically associated with adequate glycemic control ($p = 0.023$, $\text{OR} \approx 2.27$).
-* Full analysis scripts are available in the [`scripts/`](./scripts/) folder.
+* Full analysis scripts are available in the [scripts folder](gestional-nutrition-data-analysis/scripts).
+* Full **'Nutritional care analyses during pregnancy' report** available in the [outputs folder](gestional-nutrition-data-analysis/outputs).
 
 ---
 
