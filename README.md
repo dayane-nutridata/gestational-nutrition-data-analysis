@@ -29,7 +29,7 @@ All data presented were fictitiously generated in R for demonstration purposes, 
 * **Language:** R (v4.5.2)
 * **Data Manipulation:** `tidyverse`, `dplyr`, `tidyr`
 * **Statistical Modeling & Tables:** `geepack`
-* **Visualization:** `ggplot2`
+* **Visualization:** `ggplot`
 
 ---
 
@@ -48,7 +48,7 @@ Descriptive statistics for baseline maternal characteristics:
 ### 2. Main Findings
 * Longitudinal GEE models indicated that weight control is  statistically associated with adequate glycemic control ($p = 0.023$, $\text{OR} \approx 2.27$).
 * Full analysis scripts are available in the [scripts folder](gestional-nutrition-data-analysis/scripts).
-* Full **'Nutritional care analyses during pregnancy' report** available in the [outputs folder](gestional-nutrition-data-analysis/outputs).
+* Full **'Nutritional care analyses during pregnancy' report** is available in the [outputs folder](gestional-nutrition-data-analysis/outputs).
 
 ---
 
